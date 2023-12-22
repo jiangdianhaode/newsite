@@ -3,6 +3,8 @@ languageCode = 'en-us'
 publishDir = "docs"
 title = '首页'
 theme = 'ananke'
+canonifyurls = true
+
 
 
 [markup]
