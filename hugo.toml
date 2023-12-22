@@ -1,7 +1,6 @@
 baseURL = 'https://jiangdianhaode.github.io/newsite/'
 languageCode = 'en-us'
 publishDir = "docs"
-canonifyurls = true
 title = '首页'
 theme = 'ananke'
 
