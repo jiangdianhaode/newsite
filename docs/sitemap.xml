@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/test1/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/posts/test1/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/posts/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/test2/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/posts/test2/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/test3/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/posts/test3/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/tags/</loc>
   </url><url>
-    <loc>https://example.org/posts/%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB/</loc>
+    <loc>https://jiangdianhaode.github.io/newsite/posts/%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB/</loc>
   </url>
 </urlset>
