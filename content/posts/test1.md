@@ -20,3 +20,4 @@ featured_image: '/images/44.png'
 #  　　 　![markdown](/images/33.png)
 ###  　　 太极拳的热爱者不止张书记和常老师，在采访过程中，还有很多的叔叔阿姨们，他们都表达了对太极的热爱与向往。刚退休的王阿姨说：“工作的时候没有时间来学这个东西（太极拳），现在退休了，能够享受自己的老年时光了，而且对于我自身来说，我非常喜欢太极，特别是在接触之后，觉得太极带给我的变化实在太大了，而且我还将太极拳介绍给了我的朋友和家人们。”太极拳爱好者个个就像一株燃烧的火苗一样，照亮自己，影响着他人。
 ###  　　 传播太极优秀传统文化拓开了一条创新的健康之路，谱写了一副红色太极新篇章。
+　　  　　  　　  　　  <iframe src="//player.bilibili.com/player.html?aid=410093154&bvid=BV1gG411k7NT&cid=1376346872&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
